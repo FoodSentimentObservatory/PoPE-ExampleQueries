@@ -7,6 +7,7 @@ public class Tweet {
 	
 	public Date created;
 	public String body;
+	public String location;
 	
 			
 			public Tweet () {}

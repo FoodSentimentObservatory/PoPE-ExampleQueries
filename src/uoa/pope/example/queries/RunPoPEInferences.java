@@ -51,6 +51,9 @@ public class RunPoPEInferences {
 		
 		UpdateAction.parseExecute(queryString, model);
 		
+		
+		//UpdateAction.parseExecute(queryString, model);
+		
 	}
 	
 	
